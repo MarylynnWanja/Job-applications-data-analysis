@@ -1,4 +1,4 @@
-# Job-applications-data-analysis
+# Job applications data analysis
 Analyzed job application data using spreadsheets to answer key business questions.
 This project is part of the Google Data Analytics course. I used a spreadsheet (Google Sheets) to analyze a year's worth of job application data for a recruiting agency. The goal was to summarize application trends and improve the agency’s online application process.
 
@@ -41,7 +41,7 @@ This project is part of the Google Data Analytics course. I used a spreadsheet (
 
 ## 🚧 Challenges I Faced
 
-- At first, all the months showed “January” because I applied "January" instead of "mmmm" in the `TEXT(B2, "mmmm")` formula to all rows. I fixed this by replacing "January with "mmmm".
+- At first, all the months showed “January” because I applied "January" instead of "mmmm" in the `TEXT(B2, "mmmm")` formula to all rows. I fixed this by replacing "January" with "mmmm".
 
 
 ## 🧠 What I Learned
